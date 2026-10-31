@@ -1,6 +1,7 @@
-import tkinter as tk
+import streamlit as st
 import random
 from PIL import Image, ImageTk
+import os
 
 # ================== PENCERE ==================
 root = tk.Tk()
